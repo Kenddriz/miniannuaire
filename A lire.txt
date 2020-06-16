@@ -1,0 +1,7 @@
+
+1-Importer la base de données dans le <dossier Base de Données> dans chez un serveur Mysql
+2-Place le dossier site web(que l'on peut renommer,ex: miniannuaire) dans votre racine du site local, C:\wamp64\www\
+3-Modifier le fichier de configuration <site web\config\database.php> selon la configuation de votre serveur de base de données
+4-Taper votre navigateur l'url:http://localhost/miniannuaire/public/
+
+c'est tout!
